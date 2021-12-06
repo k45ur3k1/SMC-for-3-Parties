@@ -1,6 +1,8 @@
 # SMC-for-3-Parties
 Secure Mult Pparty Protocol for 3 parties
+
 The devised Protocol takes the assumption that the input provided by the parties is scaler
+
 Security Proofs:
 
 OFMC: 
